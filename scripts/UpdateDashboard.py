@@ -22,14 +22,16 @@ query($login:String!,$from:DateTime!,$to:DateTime!){
 LEVELS = {"NONE":0,"FIRST_QUARTILE":1,"SECOND_QUARTILE":2,"THIRD_QUARTILE":3,"FOURTH_QUARTILE":4}
 
 def fetch():
-    now = datetime.datetime.utcnow().replace(microsecond=0)
+    if not TOKEN:
+        sys.exit("GH_TOKEN is required")
+    now = datetime.datetime.now(datetime.UTC).replace(microsecond=0)
     body = json.dumps({"query": QUERY, "variables": {
         "login": USER,
         "from": (now - datetime.timedelta(days=364)).isoformat() + "Z",
         "to": now.isoformat() + "Z"}}).encode()
     req = urllib.request.Request("https://api.github.com/graphql", body,
         {"Authorization": f"bearer {TOKEN}", "Content-Type": "application/json"})
-    data = json.load(urllib.request.urlopen(req))
+    data = json.load(urllib.request.urlopen(req, timeout=30))
     if "errors" in data: sys.exit(str(data["errors"]))
     return data["data"]["user"]
 
