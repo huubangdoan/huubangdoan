@@ -25,10 +25,12 @@ def fetch():
     if not TOKEN:
         sys.exit("GH_TOKEN is required")
     now = datetime.datetime.now(datetime.UTC).replace(microsecond=0)
+    to = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+    from_time = (now - datetime.timedelta(days=364)).strftime("%Y-%m-%dT%H:%M:%SZ")
     body = json.dumps({"query": QUERY, "variables": {
         "login": USER,
-        "from": (now - datetime.timedelta(days=364)).isoformat() + "Z",
-        "to": now.isoformat() + "Z"}}).encode()
+        "from": from_time,
+        "to": to}}).encode()
     req = urllib.request.Request("https://api.github.com/graphql", body,
         {"Authorization": f"bearer {TOKEN}", "Content-Type": "application/json"})
     data = json.load(urllib.request.urlopen(req, timeout=30))
