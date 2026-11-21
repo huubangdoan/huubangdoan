@@ -1,14 +1,68 @@
-## Hi there, I'm Bang 👋
+<img src="./banner.svg" alt="Hi, I'm Huu Bang - Data Science Student, HCMIU" width="100%"/>
 
-🎓 Data Science student at **International University (HCMIU)**, Vietnam National University - HCMC
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D4ED8&center=true&vCenter=true&width=650&lines=Every+dataset+has+a+story.;Data+Analytics+%7C+Data+Science+%7C+Machine+Learning;Let's+connect+%F0%9F%98%8A" alt="Typing SVG" />
+</div>
 
-🔭 Currently learning and practicing data processing, data analysis techniques, and diving deeper into Machine Learning
+<br>
 
-🌱 I'm sharpening my skills in Data Analysis, Data Visualization, and various tools in the Data Science ecosystem
+Every dataset has a story. I’m still learning to read them, and I love every minute of it. 📊
 
-🤝 Looking to get involved in **non-profit projects** or connect and collaborate with people who share the same passion and expertise in the data field
+I’m a Data Science student at the International University, Vietnam National University HCMC (VNU-HCM), exploring Data Analytics, Data Science, and Machine Learning, and enjoying how they connect.
 
-💬 Always happy to chat about Data Science, community projects, or just to connect and get to know each other
+My toolkit: Python, R, Java, JavaScript, HTML/CSS, Spring Boot, React. Being comfortable with both data and software development helps me think beyond the analysis, toward building tools that put insights to work.
 
-📫 Reach me at: **dhbang.ityu@gmail.com**
+Always happy to connect with people in the data community. Say hi anytime! 😊
 
+<br>
+
+<hr>
+
+<br>
+
+<p align="center">
+  <img src="./heading-toolkit.svg" alt="My Toolkit" width="100%"/>
+</p>
+
+<p align="center"><b>DATA &amp; ML</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r&theme=light" height="56" alt="Python, R"/>
+</p>
+
+<br>
+
+<p align="center"><b>SOFTWARE DEVELOPMENT</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css&theme=light" height="56" alt="Java, Spring Boot, JavaScript, React, HTML, CSS"/>
+</p>
+
+<br>
+
+<hr>
+
+<br>
+
+<p align="center">
+  <img src="./heading-dashboard.svg" alt="My Dashboard" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="./github-dashboard.svg" alt="GitHub dashboard" width="100%"/>
+</p>
+
+<br>
+
+<hr>
+
+<br>
+
+<p align="center">
+  <img src="./heading-connect.svg" alt="Connect with me" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="mailto:dhbang.ityu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="56" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/b%E1%BA%B1ng-%C4%91o%C3%A0n-h%E1%BB%AFu-649a9b347/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="56" alt="LinkedIn"/></a>
+</p>
