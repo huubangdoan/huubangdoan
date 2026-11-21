@@ -5,7 +5,7 @@ on:
     - cron: "0 17 * * *"   
   workflow_dispatch:      
   push:
-    paths: ["scripts/update_dashboard.py"]
+    paths: ["scripts/updateDashboard.py"]
 
 permissions:
   contents: write
