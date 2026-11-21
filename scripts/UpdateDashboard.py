@@ -38,15 +38,7 @@ def fetch():
     return data["data"]["user"]
 
 STYLE = """<style>
-.f{animation:fin .7s ease-out both}
-.c{animation:pop .45s ease-out both;transform-box:fill-box;transform-origin:center}
-.bv{animation:up .8s cubic-bezier(.2,.8,.2,1) both;transform-box:fill-box;transform-origin:50% 100%}
-.bh{animation:right .8s cubic-bezier(.2,.8,.2,1) both;transform-box:fill-box;transform-origin:0% 50%}
-@keyframes fin{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
-@keyframes pop{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:scale(1)}}
-@keyframes up{from{transform:scaleY(0)}to{transform:scaleY(1)}}
-@keyframes right{from{transform:scaleX(0)}to{transform:scaleX(1)}}
-@media (prefers-reduced-motion:reduce){.f,.c,.bv,.bh{animation:none}}
+.f,.c,.bv,.bh{animation:none!important;opacity:1!important;transform:none!important}
 </style>"""
 
 def render(u):

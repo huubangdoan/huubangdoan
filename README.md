@@ -25,7 +25,7 @@ Always happy to connect with people in the data community. Say hi anytime! 😊
 </p>
 
 <p align="center">
-  <img src="./github-dashboard.svg" alt="GitHub dashboard" width="100%"/>
+  <img src="./github-dashboard.svg?v=2" alt="GitHub dashboard" width="100%"/>
 </p>
 
 <br>
