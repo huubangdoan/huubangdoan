@@ -13,21 +13,6 @@ I’m a Data Science student at the International University, Vietnam National U
 My toolkit: Python, R, Java, JavaScript, HTML/CSS, Spring Boot, React. Being comfortable with both data and software development helps me think beyond the analysis, toward building tools that put insights to work.
 
 Always happy to connect with people in the data community. Say hi anytime! 😊
-
-<br>
-
-<hr>
-
-<br>
-
-<p align="center">
-  <img src="./heading-dashboard.svg" alt="My Dashboard" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="./github-dashboard.svg?v=2" alt="GitHub dashboard" width="100%"/>
-</p>
-
 <br>
 
 <hr>
