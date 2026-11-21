@@ -21,6 +21,19 @@ Always happy to connect with people in the data community. Say hi anytime! 😊
 <br>
 
 <p align="center">
+  <img src="./heading-dashboard.svg" alt="My Dashboard" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="./github-dashboard.svg" alt="GitHub dashboard" width="100%"/>
+</p>
+
+<br>
+
+<hr>
+
+<br>
+<p align="center">
   <img src="./heading-toolkit.svg" alt="My Toolkit" width="100%"/>
 </p>
 
@@ -43,21 +56,6 @@ Always happy to connect with people in the data community. Say hi anytime! 😊
 <hr>
 
 <br>
-
-<p align="center">
-  <img src="./heading-dashboard.svg" alt="My Dashboard" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="./github-dashboard.svg" alt="GitHub dashboard" width="100%"/>
-</p>
-
-<br>
-
-<hr>
-
-<br>
-
 <p align="center">
   <img src="./heading-connect.svg" alt="Connect with me" width="100%"/>
 </p>
