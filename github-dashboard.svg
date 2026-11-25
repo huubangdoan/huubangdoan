@@ -4,7 +4,7 @@
 </style>
 <rect width="1000" height="660" fill="#ffffff"/>
 <text class="f" style="animation-delay:0.00s" x="40" y="52" font-size="24" font-weight="700" fill="#111111" text-anchor="start">GitHub activity</text>
-<text class="f" style="animation-delay:0.10s" x="40" y="74" font-size="12" font-weight="400" fill="#6b7280" text-anchor="start">2025-11-25 to 2026-11-24</text>
+<text class="f" style="animation-delay:0.10s" x="40" y="74" font-size="12" font-weight="400" fill="#6b7280" text-anchor="start">2025-11-26 to 2026-11-25</text>
 <text class="f" style="animation-delay:0.15s" x="40" y="134" font-size="36" font-weight="700" fill="#111111" text-anchor="start">246</text>
 <text class="f" style="animation-delay:0.25s" x="40" y="156" font-size="12" font-weight="400" fill="#6b7280" text-anchor="start">contributions</text>
 <text class="f" style="animation-delay:0.27s" x="275" y="134" font-size="36" font-weight="700" fill="#111111" text-anchor="start">235</text>
@@ -14,7 +14,6 @@
 <text class="f" style="animation-delay:0.51s" x="745" y="134" font-size="36" font-weight="700" fill="#111111" text-anchor="start">59</text>
 <text class="f" style="animation-delay:0.61s" x="745" y="156" font-size="12" font-weight="400" fill="#6b7280" text-anchor="start">active days</text>
 <text class="f" style="animation-delay:0.50s" x="40" y="206" font-size="14" font-weight="700" fill="#111111" text-anchor="start">Contribution calendar</text>
-<rect class="c" style="animation-delay:0.600s" x="76" y="274" width="14" height="14" fill="#eef1f6"><title>0 on 2025-11-25</title></rect>
 <rect class="c" style="animation-delay:0.600s" x="76" y="291" width="14" height="14" fill="#eef1f6"><title>0 on 2025-11-26</title></rect>
 <rect class="c" style="animation-delay:0.600s" x="76" y="308" width="14" height="14" fill="#eef1f6"><title>0 on 2025-11-27</title></rect>
 <rect class="c" style="animation-delay:0.600s" x="76" y="325" width="14" height="14" fill="#eef1f6"><title>0 on 2025-11-28</title></rect>
@@ -391,6 +390,7 @@
 <rect class="c" style="animation-delay:1.536s" x="960" y="240" width="14" height="14" fill="#eef1f6"><title>0 on 2026-11-22</title></rect>
 <rect class="c" style="animation-delay:1.536s" x="960" y="257" width="14" height="14" fill="#eef1f6"><title>0 on 2026-11-23</title></rect>
 <rect class="c" style="animation-delay:1.536s" x="960" y="274" width="14" height="14" fill="#eef1f6"><title>0 on 2026-11-24</title></rect>
+<rect class="c" style="animation-delay:1.536s" x="960" y="291" width="14" height="14" fill="#eef1f6"><title>0 on 2026-11-25</title></rect>
 <text class="f" style="animation-delay:0.60s" x="40" y="268" font-size="11" font-weight="400" fill="#6b7280" text-anchor="start">Mon</text>
 <text class="f" style="animation-delay:0.60s" x="40" y="302" font-size="11" font-weight="400" fill="#6b7280" text-anchor="start">Wed</text>
 <text class="f" style="animation-delay:0.60s" x="40" y="336" font-size="11" font-weight="400" fill="#6b7280" text-anchor="start">Fri</text>
